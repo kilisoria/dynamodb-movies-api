@@ -4,3 +4,5 @@ build
 
 # ENV
 .env
+
+.DS_STORE
